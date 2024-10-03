@@ -4,8 +4,8 @@
 * Skapa ett mytt remote repository på Github
 * Skapa en README.md fil
 * Med markdown:
- * Beskriv uppgiften
- * Använd:
-  * Listor
-  * Överskrifter
-  * osv 
+  * Beskriv uppgiften
+  * Använd:
+    * Listor
+    * Överskrifter
+    * osv 
