@@ -15,4 +15,4 @@
   Caroline Jungefalk
 
   #### Källa
-  Mittuniversitetet - Moment 3 - Versionshantering - Uppgoftsbeskrivning
+  Mittuniversitetet - Moment 3 - Versionshantering - Uppgiftsbeskrivning
